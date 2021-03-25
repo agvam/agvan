@@ -1,0 +1,16 @@
+{
+    "vk": {
+        "user_id": 563542968,
+        "group_id": 203530401,
+        "group_token": "dd9a7b8addf08237a4be34ddbbd74ddd46a2e01a1049df8aa0554dd4da6f864b1f8cb53b9a6603cd4d594",
+        "chat_id": 1
+    },
+    "app": {
+        "authorization": "vk_access_token_settings=friends,status&vk_app_id=7794757&vk_are_notifications_enabled=0&vk_is_app_user=1&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=catalog_recent&vk_ts=1616580832&vk_user_id=563542968&sign=5SiBpAPnBKBYnEljDcrWSEOGdrWMRFjXWt8x1We10Ig"
+    },
+    "intervals": {
+        "buyFetter": 1000000,
+        "getStat": 1800,
+        "buySlave": 3
+    }
+}
